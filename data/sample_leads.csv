@@ -1,0 +1,5 @@
+company,contact_name,contact_email,industry,employee_growth_pct,open_roles,manual_hours_per_week,funding_months_ago,notes
+Acme Manufacturing,Maya Chen,maya@example.com,manufacturing,24,12,18,6,Operations team relies on repetitive spreadsheet updates
+Northstar Health,Jordan Lee,jordan@example.com,healthcare,8,2,10,30,Manual weekly reporting creates delays
+Quiet River Studio,Alex Morgan,alex@example.com,design,2,0,1,48,No known automation pain
+

@@ -1,0 +1,10 @@
+[project]
+name = "ai-lead-signal-outreach-agent"
+version = "1.0.0"
+description = "Human-in-the-loop lead scoring and AI-assisted outreach workflow"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
